@@ -8,6 +8,7 @@ public class exceptionPractice {
 		}
 		catch(Exception i) {
 			System.out.println(i);
+			System.out.println("Hello");
 		}
 	}
 
